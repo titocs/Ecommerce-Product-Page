@@ -617,7 +617,7 @@ main {
 
     nav a:hover {
         border-bottom: 3px solid var(--Orange);
-        font-weight: 700;
+        color: black;
         margin: 0;
         margin-right: 20px;
     }
